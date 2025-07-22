@@ -61,8 +61,9 @@ Backend for a fitness trainer with trial session logic and analytics
 - ✅ Scheduled cleanup of stale unconfirmed accounts (7 days)
 - ✅ Transactional e-mail delivery via SendGrid API
 
-  ### 🛍️ E-Commerce Backend *(final pair project)*  
-🔒 Private repo, available upon request (demo during interview)
+### 🛍️ E-Commerce Backend *(final pair project)*  
+🔒 Private repo, available upon request (demo during interview).
+
 This project is an online platform for selling sports nutrition products, designed to provide a seamless shopping 
 experience for fitness enthusiasts. 
 
@@ -100,6 +101,6 @@ Mentored 40+ students, developed math materials, integrated digital tools into t
 
 ---
 
-<!--
+
 🇩🇪 Wenn Sie auf der Suche nach einer engagierten Junior-Backend-Entwicklerin mit Fokus auf Spring Boot, Sicherheit und sauberen Architekturen sind – vielleicht passen wir ja gut zusammen? 😉
--->
+
